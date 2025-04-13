@@ -2,7 +2,9 @@
 
 A Nike-inspired landing page built to practice and showcase Tailwind CSS skills. This project demonstrates how to create a modern, responsive UI using the utility-first approach of Tailwind CSS combined with React.
 
-![Tailwind Nike UI](https://github.com/yourusername/tailwind-mastery-nike/raw/main/public/preview.png)
+![image](https://github.com/user-attachments/assets/43f7f68d-a426-4d3d-89b5-c90275cf950b)
+
+
 
 ## 🧠 Learning Journey
 
